@@ -1,0 +1,26 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "Websocket server for home security system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebRTC",
+    "Signalling",
+    "Server",
+    "Node"
+  ],
+  "author": "Uma Abu",
+  "license": "ISC",
+  "dependencies": {
+    "webrtc": "^1.14.1",
+    "webrtc-adapter": "^7.5.0",
+    "websocket": "^1.0.26",
+    "websocket-node": "^0.1.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
