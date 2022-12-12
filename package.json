@@ -20,7 +20,7 @@
     "webrtc-adapter": "^7.5.0",
     "websocket": "^1.0.26",
     "websocket-node": "^0.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.1"
   }
 }
